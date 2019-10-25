@@ -1,0 +1,13 @@
+{
+  "imports": [
+    "./aliases.json",
+    "./background-color.json",
+    "./border-radius.json",
+    "./border-color.json",
+    "./box-shadow.json",
+    "./font-size.json",
+    "./line-height.json",
+    "./spacing.json",
+    "./text-color.json"
+  ]
+}

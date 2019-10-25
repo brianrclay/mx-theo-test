@@ -1,0 +1,56 @@
+{
+  "global": {
+    "type": "color",
+    "category": "text-color"
+  },
+  "imports": [
+    "./aliases.json"
+  ],
+  "props": {
+    "text-color-default": {
+      "value": "{!neutral-900}"
+    },
+    "text-color-secondary": {
+      "value": "{!neutral-700}"
+    },
+    "text-color-active": {
+      "value": "{!primary-300}"
+    },
+    "text-color-active-hover": {
+      "value": "{!primary-400}"
+    },
+    "text-color-error": {
+      "value": "{!error-300}"
+    },
+    "text-color-disabled": {
+      "value": "{!neutral-600}"
+    },
+    "text-color-input-placeholder": {
+      "value": "{!neutral-600}"
+    },
+    "text-color-primary-button": {
+      "value": "{!neutral-white}"
+    },
+    "text-color-primary-button-disabled": {
+      "value": "{!neutral-500}"
+    },
+    "text-color-neutral-button": {
+      "value": "{!primary-300}"
+    },
+    "text-color-neutral-button-hover": {
+      "value": "{!primary-400}"
+    },
+    "text-color-neutral-button-disabled": {
+      "value": "{!neutral-600}"
+    },
+    "text-color-transparent-button": {
+      "value": "{!primary-300}"
+    },
+    "text-color-transparent-button-hover": {
+      "value": "{!primary-400}"
+    },
+    "text-color-transparent-button-disabled": {
+      "value": "{!neutral-600}"
+    }
+  }
+}

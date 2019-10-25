@@ -1,0 +1,47 @@
+{
+    "global": {
+      "type": "color",
+      "category": "border-color"
+    },
+    "imports": [
+        "./aliases.json"
+    ],
+    "props": {
+      "border-color-neutral-button": {
+        "value": "{!neutral-400}"
+      },
+      "border-color-neutral-button-hover": {
+        "value": "{!neutral-400}"
+      },
+      "border-color-input": {
+        "value": "{!neutral-400}"
+      },
+      "border-color-input-hover": {
+        "value": "{!neutral-600}"
+      },
+      "border-color-input-focus": {
+        "value": "{!primary-300}"
+      },
+      "border-color-input-error": {
+        "value": "{!error-300}"
+      },
+      "border-color-input-disabled": {
+        "value": "{!transparent-neutral-400}"
+      },
+      "border-color-dropdown": {
+        "value": "{!neutral-400}"
+      },
+      "border-color-dropdown-hover": {
+        "value": "{!neutral-600}"
+      },
+      "border-color-dropdown-focus": {
+        "value": "{!primary-300}"
+      },
+      "border-color-dropdown-error": {
+        "value": "{!error-300}"
+      },
+      "border-color-dropdown-disabled": {
+        "value": "{!transparent-neutral-400}"
+      }
+    }
+  }

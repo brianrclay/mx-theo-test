@@ -1,0 +1,38 @@
+{
+  "global": {
+    "type": "size",
+    "category": "spacing"
+  },
+  "props": {
+    "spacing-tiny": {
+      "value": "4px"
+    },
+    "spacing-x-small": {
+      "value": "8px"
+    },
+    "spacing-small": {
+      "value": "12px"
+    },
+    "spacing-med": {
+      "value": "16px"
+    },
+    "spacing-large": {
+      "value": "24px"
+    },
+    "spacing-x-large": {
+      "value": "32px"
+    },
+    "spacing-xx-large": {
+      "value": "40px"
+    },
+    "spacing-xxx-large": {
+      "value": "48px"
+    },
+    "spacing-jumbo": {
+      "value": "64px"
+    },
+    "spacing-super-jumbo": {
+      "value": "96px"
+    } 
+  }
+}

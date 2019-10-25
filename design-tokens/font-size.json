@@ -1,0 +1,35 @@
+{
+  "global": {
+    "type": "size",
+    "category": "font-size"
+  },
+  "props": {
+    "font-size-tiny": {
+      "value": "10px"
+    },
+    "font-size-x-small": {
+      "value": "12px"
+    },
+    "font-size-small": {
+      "value": "14px"
+    },
+    "font-size-paragraph-small": {
+      "value": "14px"
+    },
+    "font-size-body": {
+      "value": "16px"
+    },
+    "font-size-paragraph": {
+      "value": "16px"
+    },
+    "font-size-h3": {
+      "value": "20px"
+    },
+    "font-size-h2": {
+      "value": "24px"
+    },
+    "font-size-h1": {
+      "value": "36px"
+    }
+  }
+}

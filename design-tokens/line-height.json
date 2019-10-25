@@ -1,0 +1,35 @@
+{
+    "global": {
+      "type": "size",
+      "category": "line-height"
+    },
+    "props": {
+      "line-height-tiny": {
+        "value": "12px"
+      },
+      "line-height-x-small": {
+        "value": "16px"
+      },
+      "line-height-small": {
+        "value": "16px"
+      },
+      "line-height-paragraph-small": {
+        "value": "20px"
+      },
+      "line-height-body": {
+        "value": "20px"
+      },
+      "line-height-paragraph": {
+        "value": "24px"
+      },
+      "line-height-h3": {
+        "value": "24px"
+      },
+      "line-height-h2": {
+        "value": "32px"
+      },
+      "line-height-h1": {
+        "value": "44px"
+      }
+    }
+  }

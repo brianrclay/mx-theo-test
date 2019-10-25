@@ -1,0 +1,29 @@
+{
+    "global": {
+        "type": "box-shadow",
+        "category": "box-shadow"
+    },
+    "imports": [
+        "./aliases.json"
+    ],
+    "props": {
+        "box-shadow-container": {
+            "value": "{!shadow-low}"
+        },
+        "box-shadow-card": {
+            "value": "{!shadow-low}"
+        },
+        "box-shadow-dropdown-menu": {
+            "value": "{!shadow-med}"
+        },
+        "box-shadow-modal": {
+            "value": "{!shadow-high}"
+        },
+        "box-shadow-bottom-bar": {
+            "value": "{!shadow-top}"
+        },
+        "box-shadow-drawer": {
+            "value": "{!shadow-left}"
+        }
+    }
+}
