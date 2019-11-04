@@ -7,6 +7,15 @@
         "./aliases.json"
     ],
     "props": {
+        "box-shadow-low": {
+            "value": "{!shadow-low}"
+        },
+        "box-shadow-med": {
+            "value": "{!shadow-med}"
+        },
+        "box-shadow-high": {
+            "value": "{!shadow-high}"
+        },
         "box-shadow-container": {
             "value": "{!shadow-low}"
         },

@@ -37,6 +37,9 @@
     "shadow-high":" 0px 10px 20px rgba(87, 102, 117, 0.16)",
     "shadow-top":" 0px -1px 3px rgba(87, 102, 117, 0.2)",
     "shadow-left":" -1px 0px 3px rgba(87, 102, 117, 0.2)",
-    "shadow-right":" 1px 0px 3px rgba(87, 102, 117, 0.2)"
+    "shadow-right":" 1px 0px 3px rgba(87, 102, 117, 0.2)",
+    "border-radius-small":"2px",
+    "border-radius-med":"4px",
+    "border-radius-large":"16px"
   }
 }
