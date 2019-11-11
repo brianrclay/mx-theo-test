@@ -28,6 +28,12 @@
     "text-color-input-placeholder": {
       "value": "{!neutral-600}"
     },
+    "text-color-link-button": {
+      "value": "{!primary-300}"
+    },
+    "text-color-link-button-hover": {
+      "value": "{!primary-400}"
+    },
     "text-color-primary-button": {
       "value": "{!neutral-white}"
     },

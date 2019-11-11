@@ -28,6 +28,9 @@
       "border-color-input-disabled": {
         "value": "{!transparent-neutral-400}"
       },
+      "border-color-link-button-hover": {
+        "value": "{!primary-400}"
+      },
       "border-color-dropdown": {
         "value": "{!neutral-400}"
       },

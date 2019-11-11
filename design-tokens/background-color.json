@@ -7,6 +7,9 @@
         "./aliases.json"
     ],
     "props": {
+      "bg-link-button-hover": {
+        "value": "{!primary-100}"
+      },
       "bg-primary-button": {
         "value": "{!primary-300}"
       },
