@@ -3,33 +3,36 @@
       "type": "size",
       "category": "line-height"
     },
+    "imports": [
+      "./aliases.json"
+    ],
     "props": {
       "line-height-tiny": {
-        "value": "12px"
+        "value": "{!line-height-tiny}"
       },
       "line-height-x-small": {
-        "value": "16px"
+        "value": "{!line-height-x-small}"
       },
       "line-height-small": {
-        "value": "16px"
+        "value": "{!line-height-small}"
       },
       "line-height-paragraph-small": {
-        "value": "20px"
+        "value": "{!line-height-paragraph-small}"
       },
       "line-height-body": {
-        "value": "20px"
+        "value": "{!line-height-body}"
       },
       "line-height-paragraph": {
-        "value": "24px"
+        "value": "{!line-height-paragraph}"
       },
       "line-height-h3": {
-        "value": "24px"
+        "value": "{!line-height-h3}"
       },
       "line-height-h2": {
-        "value": "32px"
+        "value": "{!line-height-h2}"
       },
       "line-height-h1": {
-        "value": "44px"
+        "value": "{!line-height-h1}"
       }
     }
   }

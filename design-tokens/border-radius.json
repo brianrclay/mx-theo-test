@@ -3,15 +3,48 @@
     "type": "size",
     "category": "border-radius"
   },
+  "imports": [
+    "./aliases.json"
+  ],
   "props": {
     "border-radius-small": {
-      "value": "2px"
+      "value": "{!border-radius-small}"
     },
     "border-radius-med": {
-      "value": "4px"     
+      "value": "{!border-radius-med}"     
     },
     "border-radius-large": {
-      "value": "16px"     
+      "value": "{!border-radius-large}"     
+    },
+    "border-radius-button": {
+      "value": "{!border-radius-med}"
+    },
+    "border-radius-input": {
+      "value": "{!border-radius-med}"
+    },
+    "border-radius-textarea": {
+      "value": "{!border-radius-med}"
+    },
+    "border-radius-modal": {
+      "value": "{!border-radius-med}"
+    },
+    "border-radius-modal-close": {
+      "value": "{!border-radius-med}"
+    },
+    "border-radius-dropdown-toggle": {
+      "value": "{!border-radius-med}"
+    },
+    "border-radius-dropdown-menu": {
+      "value": "{!border-radius-med}"
+    },
+    "border-radius-dropdown-item": {
+      "value": "{!border-radius-med}"
+    },
+    "border-radius-container": {
+      "value": "{!border-radius-med}"
+    },
+    "border-radius-card": {
+      "value": "{!border-radius-med}"
     }
   }
 }

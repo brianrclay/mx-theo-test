@@ -3,33 +3,69 @@
     "type": "size",
     "category": "font-size"
   },
+  "imports": [
+    "./aliases.json"
+  ],
   "props": {
     "font-size-tiny": {
-      "value": "10px"
+      "value": "{!font-size-tiny}"
     },
     "font-size-x-small": {
-      "value": "12px"
+      "value": "{!font-size-x-small}"
     },
     "font-size-small": {
-      "value": "14px"
+      "value": "{!font-size-small}"
     },
     "font-size-paragraph-small": {
-      "value": "14px"
+      "value": "{!font-size-paragraph-small}"
     },
     "font-size-body": {
-      "value": "16px"
+      "value": "{!font-size-body}"
     },
     "font-size-paragraph": {
-      "value": "16px"
+      "value": "{!font-size-paragraph}"
     },
     "font-size-h3": {
-      "value": "20px"
+      "value": "{!font-size-h3}"
     },
     "font-size-h2": {
-      "value": "24px"
+      "value": "{!font-size-h2}"
     },
     "font-size-h1": {
-      "value": "36px"
+      "value": "{!font-size-h1}"
+    },
+    "font-size-input-label": {
+      "value": "{!font-size-body}"
+    },
+    "font-size-input": {
+      "value": "{!font-size-body}"
+    },
+    "font-size-input-help-text": {
+      "value": "{!font-size-small}"
+    },
+    "font-size-textarea": {
+      "value": "{!font-size-body}"
+    },
+    "font-size-textarea-help-text": {
+      "value": "{!font-size-small}"
+    },
+    "font-size-dropdown-toggle": {
+      "value": "{!font-size-body}"
+    },
+    "font-size-dropdown-item": {
+      "value": "{!font-size-body}"
+    },
+    "font-size-modal-header": {
+      "value": "{!font-size-h3}"
+    },
+    "font-size-link-button-small": {
+      "value": "{!font-size-small}"
+    },
+    "font-size-link-button-large": {
+      "value": "{!font-size-body}"
+    },
+    "font-size-button": {
+      "value": "{!font-size-body}"
     }
   }
 }

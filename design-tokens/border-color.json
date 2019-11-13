@@ -11,7 +11,7 @@
         "value": "{!neutral-400}"
       },
       "border-color-neutral-button-hover": {
-        "value": "{!neutral-400}"
+        "value": "{!primary-400}"
       },
       "border-color-input": {
         "value": "{!neutral-400}"

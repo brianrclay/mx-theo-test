@@ -5,34 +5,76 @@
   },
   "props": {
     "spacing-tiny": {
-      "value": "4px"
+      "value": "{!spacing-tiny}"
     },
     "spacing-x-small": {
-      "value": "8px"
+      "value": "{!spacing-x-small}"
     },
     "spacing-small": {
-      "value": "12px"
+      "value": "{!spacing-small}"
     },
     "spacing-med": {
-      "value": "16px"
+      "value": "{!spacing-med}"
     },
     "spacing-large": {
-      "value": "24px"
+      "value": "{!spacing-large}"
     },
     "spacing-x-large": {
-      "value": "32px"
+      "value": "{!spacing-x-large}"
     },
     "spacing-xx-large": {
-      "value": "40px"
+      "value": "{!spacing-xx-large}"
     },
     "spacing-xxx-large": {
-      "value": "48px"
+      "value": "{!spacing-xxx-large}"
     },
     "spacing-jumbo": {
-      "value": "64px"
+      "value": "{!spacing-jumbo}"
     },
     "spacing-super-jumbo": {
-      "value": "96px"
+      "value": "{!spacing-super-jumbo}"
+    },
+    "spacing-button-padding": {
+      "value": "{!spacing-small}"
+    },
+    "spacing-checkbox-label-margin-left": {
+      "value": "{!spacing-small}"
+    },
+    "spacing-checkbox-label-margin-right": {
+      "value": "{!spacing-small}"
+    },
+    "spacing-switch-label-margin-left": {
+      "value": "{!spacing-small}"
+    },
+    "spacing-switch-label-margin-right": {
+      "value": "{!spacing-small}"
+    },
+    "spacing-input-label-margin-bottom": {
+      "value": "{!spacing-tiny}"
+    },
+    "spacing-input-label-margin-left": {
+      "value": "{!spacing-tiny}"
+    },
+    "spacing-input-padding": {
+      "value": "{!spacing-small}"
+    },
+    "spacing-input-help-text-margin-top": { 
+      "value": "{!spacing-tiny}"
+    },
+    "spacing-textarea-padding": {
+      "value": "{!spacing-small}"
+    },
+    "spacing-dropdown-toggle": {
+      "value": "{!spacing-small}"
+    },
+    "spacing-dropdown-item-padding-top-bottom": {
+      "value": "{!spacing-small}"
+    },
+    "spacing-dropdown-item-padding-left-right": {
+      "value": "{!spacing-x-small}"
+    },
+    "spacing-modal-padding ": {
+      "value": "{!spacing-large}"
     }
   }
 }

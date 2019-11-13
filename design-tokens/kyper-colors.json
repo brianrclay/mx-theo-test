@@ -1,0 +1,110 @@
+{
+  "global": {
+      "type": "color",
+      "category": "Kyper Colors"
+  },
+  "imports": [
+      "./aliases.json"
+  ],
+  "props": {
+      "primary-100": {
+        "value": "{!primary-100}"
+      },
+      "primary-200": {
+        "value": "{!primary-200}"
+      },
+      "primary-300": {
+        "value": "{!primary-300}"
+      },
+      "primary-400": {
+        "value": "{!primary-400}"
+      },
+      "primary-500": {
+        "value": "{!primary-500}"
+      },
+      "neutral-white": {
+        "value": "{!neutral-white}"
+      },
+      "neutral-100": {
+        "value": "{!neutral-100}"
+      },
+      "neutral-200": {
+        "value": "{!neutral-200}"
+      },
+      "neutral-300": {
+        "value": "{!neutral-300}"
+      },
+      "neutral-400": {
+        "value": "{!neutral-400}"
+      },
+      "neutral-500": {
+        "value": "{!neutral-500}"
+      },
+      "neutral-600": {
+        "value": "{!neutral-600}"
+      },
+      "neutral-700": {
+        "value": "{!neutral-700}"
+      },
+      "neutral-800": {
+        "value": "{!neutral-800}"
+      },
+      "neutral-900": {
+        "value": "{!neutral-900}"
+      },
+      "success-100": {
+        "value": "{!success-100}"
+      },
+      "success-200": {
+        "value": "{!success-200}"
+      },
+      "success-300": {
+        "value": "{!success-300}"
+      },
+      "success-400": {
+        "value": "{!success-400}"
+      },
+      "success-500": {
+        "value": "{!success-500}"
+      },
+      "warning-100": {
+        "value": "{!warning-100}"
+      },
+      "warning-200": {
+        "value": "{!warning-200}"
+      },
+      "warning-300": {
+        "value": "{!warning-300}"
+      },
+      "warning-400": {
+        "value": "{!warning-400}"
+      },
+      "warning-500": {
+        "value": "{!warning-500}"
+      },
+      "error-100": {
+        "value": "{!error-100}"
+      },
+      "error-200": {
+        "value": "{!error-200}"
+      },
+      "error-300": {
+        "value": "{!error-300}"
+      },
+      "error-400": {
+        "value": "{!error-400}"
+      },
+      "error-500": {
+        "value": "{!error-500}"
+      },
+      "transparent-neutral-100": {
+        "value": "{!transparent-neutral-100}"
+      },
+      "transparent-neutral-400": {
+        "value": "{!transparent-neutral-400}"
+      },
+      "transparent-scrim": {
+        "value": "{!transparent-scrim}"
+      }
+  }
+}
