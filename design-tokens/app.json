@@ -9,6 +9,7 @@
     "./line-height.json",
     "./spacing.json",
     "./text-color.json",
-    "./kyper-colors.json"
+    "./kyper-colors.json",
+    "./media-query-widths.json"
   ]
 }

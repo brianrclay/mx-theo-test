@@ -73,6 +73,13 @@
     "spacing-xx-large": "40px",
     "spacing-xxx-large": "48px",
     "spacing-jumbo": "64px",
-    "spacing-super-jumbo": "96px"
+    "spacing-super-jumbo": "96px",
+    "media-query-small": "768px",
+    "media-query-med": "992px",
+    "media-query-large": "1200px",
+    "time-short": "300ms",
+    "time-med": "500ms",
+    "time-long": "1000ms",
+    "easing-default": "cubic-bezier(.475,.425,0,.995)"
   }
 }

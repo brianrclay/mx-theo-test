@@ -1,0 +1,20 @@
+{
+  "global": {
+    "type": "time",
+    "category": "time"
+  },
+  "imports": [
+    "./aliases.json"
+  ],
+  "props": {
+    "time-short": {
+      "value": "{!time-short}"
+    },
+    "time-med": {
+      "value": "{!time-med}"     
+    },
+    "time-log": {
+      "value": "{!time-log}"
+    }
+  }
+}

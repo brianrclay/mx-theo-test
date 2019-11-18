@@ -1,0 +1,20 @@
+{
+  "global": {
+    "type": "size",
+    "category": "media-queries"
+  },
+  "imports": [
+    "./aliases.json"
+  ],
+  "props": {
+    "media-query-small": {
+      "value": "{!media-query-small}"
+    },
+    "media-query-med": {
+      "value": "{!media-query-med}"     
+    },
+    "media-query-large": {
+      "value": "{!media-query-large}"     
+    }
+  }
+}

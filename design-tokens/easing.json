@@ -1,0 +1,14 @@
+{
+  "global": {
+    "type": "easing",
+    "category": "easing"
+  },
+  "imports": [
+    "./aliases.json"
+  ],
+  "props": {
+    "easing-default": {
+      "value": "{!easing-default}"
+    }
+  }
+}
