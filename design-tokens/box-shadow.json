@@ -1,38 +1,39 @@
 {
-    "global": {
-        "type": "box-shadow",
-        "category": "box-shadow"
+  "global": {
+    "type": "box-shadow",
+    "category": "box-shadow"
+  },
+  "imports": ["./aliases.json"],
+  "props": {
+    "box-shadow-low": {
+      "value": "{!shadow-low}"
     },
-    "imports": [
-        "./aliases.json"
-    ],
-    "props": {
-        "box-shadow-low": {
-            "value": "{!shadow-low}"
-        },
-        "box-shadow-med": {
-            "value": "{!shadow-med}"
-        },
-        "box-shadow-high": {
-            "value": "{!shadow-high}"
-        },
-        "box-shadow-container": {
-            "value": "{!shadow-low}"
-        },
-        "box-shadow-card": {
-            "value": "{!shadow-low}"
-        },
-        "box-shadow-dropdown-menu": {
-            "value": "{!shadow-med}"
-        },
-        "box-shadow-modal": {
-            "value": "{!shadow-high}"
-        },
-        "box-shadow-bottom-bar": {
-            "value": "{!shadow-top}"
-        },
-        "box-shadow-drawer": {
-            "value": "{!shadow-left}"
-        }
+    "box-shadow-med": {
+      "value": "{!shadow-med}"
+    },
+    "box-shadow-high": {
+      "value": "{!shadow-high}"
+    },
+    "box-shadow-container": {
+      "value": "{!shadow-low}"
+    },
+    "box-shadow-card": {
+      "value": "{!shadow-low}"
+    },
+    "box-shadow-dropdown-menu": {
+      "value": "{!shadow-med}"
+    },
+    "box-shadow-modal": {
+      "value": "{!shadow-high}"
+    },
+    "box-shadow-bottom-bar": {
+      "value": "{!shadow-top}"
+    },
+    "box-shadow-drawer": {
+      "value": "{!shadow-left}"
+    },
+    "box-shadow-focus": {
+      "value": "{!shadow-focus}"
     }
+  }
 }
