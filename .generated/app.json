@@ -45,6 +45,7 @@
   "box-shadow-modal": " 0px 10px 20px rgba(87, 102, 117, 0.16)",
   "box-shadow-bottom-bar": " 0px -1px 3px rgba(87, 102, 117, 0.2)",
   "box-shadow-drawer": " -1px 0px 3px rgba(87, 102, 117, 0.2)",
+  "box-shadow-focus": "0 0 0 2px rgba(82, 138, 224, 0.8)",
   "font-size-tiny": "10px",
   "font-size-x-small": "12px",
   "font-size-small": "14px",
