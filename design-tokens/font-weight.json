@@ -1,0 +1,18 @@
+{
+  "global": {
+    "type": "weight",
+    "category": "font-weight"
+  },
+  "imports": ["./aliases.json"],
+  "props": {
+    "font-weight-regular": {
+      "value": "{!font-weight-regular}"
+    },
+    "font-weight-semibold": {
+      "value": "{!font-weight-semibold}"
+    },
+    "font-weight-bold": {
+      "value": "{!font-weight-bold}"
+    }
+  }
+}
